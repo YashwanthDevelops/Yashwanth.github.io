@@ -37,6 +37,3 @@ The website is hosted using **GitHub Pages**.
 - Deployed using GitHub Pages
 
 ---
-
-## 📂 Project Structure
-
